@@ -1,5 +1,9 @@
 ### 👋 Hello, this is Santosh!
 
+ Devops Engineer - Passinate about learning and Implementaing CNCF Applications, K8's, Cloud Architecture, Python, CI/CD, Gitops.
+
+
+
 <!--
 
 Here are some ideas to get you started:
