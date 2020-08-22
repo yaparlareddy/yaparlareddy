@@ -1,4 +1,4 @@
-### 👋 Hello, this is Santosh(https://www.linkedin.com/in/santosh-reddy-a8774612a/)!
+### 👋 Hello, this is [Santosh](https://www.linkedin.com/in/santosh-reddy-a8774612a/)!
 
  Devops Engineer - Passinate about learning and Implementaing CNCF Applications, K8's, Cloud Architecture, Python, CI/CD, Gitops.
 
