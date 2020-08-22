@@ -2,7 +2,7 @@
 
 DevOps Engineer - Passionate about learning and Implementing the CNCF Applications, K8's, Cloud Architecture, Python, CI/CD, Gitops.
 
-I'm mostly wokrks on 
+I'm mostly works on 
 
 ### CSPs
 
