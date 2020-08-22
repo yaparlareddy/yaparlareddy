@@ -5,14 +5,13 @@ DevOps Engineer - Passionate about learning and Implementing the CNCF Applicatio
 I'm mostly wokrks on 
 
 ### CSPs
+
 <p float="left">
- 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
  </p>
-
-<!--
+ 
 ### Monitoring
   
  <p float="left">
@@ -22,6 +21,7 @@ I'm mostly wokrks on
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
+</p>
 ### Databases
   
  <p float="left">
@@ -33,3 +33,14 @@ I'm mostly wokrks on
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
 </p>
+
+### CI/CD
+
+<p float="left">
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://tinderengineering.ghost.io/content/images/2017/05/jenkins_blogbanner.gif" height="90" />&nbsp;&nbsp;
+  </a>
+  
+
+</p>
+
