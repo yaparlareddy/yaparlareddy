@@ -1,6 +1,6 @@
 ### 👋 Hello, this is [Santosh](https://www.linkedin.com/in/santosh-reddy-a8774612a/)!
 
-DevOps Engineer - Passionate about learning and Implementing the CNCF Applications, K8's, Cloud Architecture, Python, CI/CD, Gitops.
+DevOps Engineer - Passionate about learning and Working on CNCF Applications, K8's, Cloud Architecture, Python, CI/CD, Gitops.
 
 I'm mostly works on 
 
